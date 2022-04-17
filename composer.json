@@ -1,6 +1,6 @@
 {
-  "name": "jackabox/nova-duplicate-field",
-  "description": "A Laravel Nova field to duplicate records.",
+  "name": "mohamed/nova-duplicate-field",
+  "description": "A Laravel Nova field to duplicate records from jackabox with small fix in laravel 8",
   "version": "0.3.0",
   "keywords": [
     "laravel",
